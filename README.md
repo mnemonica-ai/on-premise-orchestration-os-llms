@@ -1,12 +1,12 @@
-# red-teaming-latent-spaces
+# on-premise-orchestration-os-llms
 
 > Beyond the Cloud: On-premise Orchestration for Open-source LLMs; examples.
 
 ### Setup
 
 ```
-conda create -n red-teaming python=3.12
-conda activate red-teaming
+conda create -n on-prem-orch python=3.12
+conda activate on-prem-orch
 pip install -r requirements.txt
 
 jupyter notebook
