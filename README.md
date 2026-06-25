@@ -2,6 +2,8 @@
 
 > Beyond the Cloud: On-premise Orchestration for Open-source LLMs; examples.
 
+Serving Ollama models, on-premise from any machine in your company’s datacenter or even from the PC you use for playing video games, and orchestrating inference, as easy as using Redis, official ollama-python/ollama-js packages, and [oshepherd](https://github.com/mnemonica-ai/oshepherd), in your web application or your jupyter notebook.
+
 ### Setup
 
 ```
