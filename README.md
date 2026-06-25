@@ -4,8 +4,8 @@
 
 Serving Ollama models, on-premise from any machine in your company’s datacenter or even from the PC you use for playing video games, and orchestrating inference, as easy as using Redis, official ollama-python/ollama-js packages, and [oshepherd](https://github.com/mnemonica-ai/oshepherd), in your web application or your jupyter notebook.
 
-Presented at PyCon Austria 2025: https://2025.pycon.at/talks/beyond-the-cloud-on-premise-orchestration-for-open-source-llms/
-Deck: https://speakerdeck.com/p1nox/beyond-the-cloud-on-premise-orchestration-for-open-source-llms
+* Presented at PyCon Austria 2025: https://2025.pycon.at/talks/beyond-the-cloud-on-premise-orchestration-for-open-source-llms/
+* Deck: https://speakerdeck.com/p1nox/beyond-the-cloud-on-premise-orchestration-for-open-source-llms
 
 ### Setup
 
